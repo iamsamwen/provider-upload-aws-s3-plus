@@ -56,9 +56,9 @@ AWS_DEFAULT_PATH=00-files
 ...
 ```
 
-if no path is set when file is uploaded, the url looks like https://MY.DOMAIN.NAME/products/00-files/image_63ec2fe493.png
+if no path is set when file is uploaded, the url looks like https://MY.DOMAIN.NAME/products/00-files/image_63ec2fe493.png.
 
-if path is set to t-shirts, and name for the file is color-blue, the url looks like https://MY.DOMAIN.NAME/products/t-shirts/color-blue_63ec2fe493.png
+if path is set to t-shirts, and name for the file is color-blue (see <a href="https://github.com/iamsamwen/strapi-api">strapi-api package: example 2 - upload a media file</a>), the url looks like https://MY.DOMAIN.NAME/products/t-shirts/color-blue_63ec2fe493.png
 
 ### Security Middleware Configuration
 
