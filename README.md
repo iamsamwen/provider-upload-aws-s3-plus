@@ -62,7 +62,7 @@ if path is set to t-shirts, and name for the file is color-blue, the url looks l
 
 ### Security Middleware Configuration
 
-To allow strapi load the assets files, use {...} block of following to replace name: 'strapi::security' in ./config/middlewares.js.
+To fix the broken images in admin Media Library panel, use {...} block of following to replace name: 'strapi::security' in ./config/middlewares.js.
 
 ```js
 module.exports = [
