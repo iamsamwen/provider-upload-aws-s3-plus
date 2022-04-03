@@ -20,7 +20,7 @@ npm install @iamsamwen/provider-upload-aws-s3-plus --save
 
 ### Provider Configuration
 
-add upload section of following to ./config/plugins.js
+add upload section of following code to ./config/plugins.js
 
 ```js
 module.exports = ({ env }) => ({
@@ -62,7 +62,7 @@ if path is set to t-shirts, and name for the file is color-blue (see <a href="ht
 
 ### Security Middleware Configuration
 
-To fix the broken images in admin Media Library panel, use {...} block of following to replace name: 'strapi::security' in ./config/middlewares.js.
+To fix the broken images in admin Media Library panel, use {...} block of following code to replace name: 'strapi::security' in ./config/middlewares.js.
 
 ```js
 module.exports = [
