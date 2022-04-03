@@ -4,8 +4,6 @@ AWS S3 provider for strapi upload with prefix, defaultPath, baseUrl and customiz
 
 use @aws-sdk/client-s3
 
-replace MY.DOMAIN.NAME with your domain name
-
 ## Installation
 
 ```bash
@@ -17,6 +15,8 @@ npm install @iamsamwen/provider-upload-aws-s3-plus --save
 ```
 
 ## Configurations
+
+replace MY.DOMAIN.NAME with your domain name.
 
 ### Provider Configuration
 
