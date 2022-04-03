@@ -1,6 +1,6 @@
-# @iamsamwen/provider-upload-aws-s3-plus
+# provider-upload-aws-s3-plus for strapi v4
 
-AWS S3 provider for strapi upload with support for prefix, defaultPath and baseUrl with customized domain name features.
+AWS S3 provider for strapi upload with prefix, defaultPath, baseUrl and customized domain name features.
 
 use @aws-sdk/client-s3
 
