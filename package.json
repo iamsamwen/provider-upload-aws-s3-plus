@@ -1,6 +1,6 @@
 {
   "name": "@iamsamwen/provider-upload-aws-s3-plus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AWS S3 provider for strapi upload with prefix, defaultPath and baseUrl with customized domain name features",
   "keywords": [
     "upload",
